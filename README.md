@@ -26,12 +26,13 @@ Ultra Fabrication Exporter adds a toolbar button to the KiCad PCB Editor that ex
 
 ## Screenshots
 
-| Dialog | Output PDF | Success |
-|--------|-----------|---------|
-| <img width="686" height="438" alt="Screenshot 2026-05-03 174608" src="https://github.com/user-attachments/assets/6fbcb731-a13a-4037-96b9-61c1aca93afe" />
- | <img width="888" height="455" alt="Screenshot 2026-05-03 174714" src="https://github.com/user-attachments/assets/7119c81f-1d8b-44d2-94ef-6c9b677d1c31" />
-| <img width="547" height="254" alt="Screenshot 2026-05-03 174617" src="https://github.com/user-attachments/assets/17530c69-3f3c-4592-8b57-fa0196ea4031" />
- |
+##Dialog 
+<img width="686" height="438" alt="Screenshot 2026-05-03 174608" src="https://github.com/user-attachments/assets/6fbcb731-a13a-4037-96b9-61c1aca93afe" />
+##Output PDF 
+ <img width="888" height="455" alt="Screenshot 2026-05-03 174714" src="https://github.com/user-attachments/assets/7119c81f-1d8b-44d2-94ef-6c9b677d1c31" />
+##Success 
+ <img width="547" height="254" alt="Screenshot 2026-05-03 174617" src="https://github.com/user-attachments/assets/17530c69-3f3c-4592-8b57-fa0196ea4031" />
+
 
 ---
 
